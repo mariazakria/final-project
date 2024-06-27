@@ -749,6 +749,7 @@ input::placeholder{
     .video-grid {
         grid-template-columns: repeat(5, 1fr);
     }
+    
 }
 
 @media (min-width: 2103px) {
